@@ -15,7 +15,9 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+
       title: 'basicy',
+
       theme: ThemeData(
         primarySwatch: Colors.lightGreen,
       ),
