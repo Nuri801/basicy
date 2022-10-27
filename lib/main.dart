@@ -22,7 +22,9 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         appBar: AppBar(
           title: const Text(
+
             "basicy",
+
             style: TextStyle(
               fontSize: 25,
               backgroundColor: Colors.lightGreen
